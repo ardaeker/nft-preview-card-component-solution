@@ -2,7 +2,7 @@ import "@/styles/globals.css";
 import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
 import { fontOutfit } from "@/lib/fonts";
-import openGraphImage from "@/public/previews/mobile-preview.png";
+import openGraphImage from "../../public/previews/mobile-preview.png";
 
 export const metadata: Metadata = {
   title: "Arda Eker - NFT Preview Card Component Solution",
