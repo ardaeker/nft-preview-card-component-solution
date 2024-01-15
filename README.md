@@ -32,7 +32,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-lJXQUZRhDo)
 - Live Site URL: [Live Site](https://ardaeker-nft-preview-card-component-solution.vercel.app)
 
 ## Built with
